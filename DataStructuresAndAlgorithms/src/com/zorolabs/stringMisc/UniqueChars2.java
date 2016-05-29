@@ -1,4 +1,4 @@
-package com.zororlabs.stringMisc;
+package com.zorolabs.stringMisc;
 
 public class UniqueChars2 {
 	

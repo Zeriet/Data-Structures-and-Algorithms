@@ -1,4 +1,4 @@
-package com.zororlabs.stringMisc;
+package com.zorolabs.stringMisc;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
