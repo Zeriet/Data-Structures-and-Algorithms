@@ -5,7 +5,7 @@ public class RemoveDuplicates {
 	
 public static void main(String[] args){
 	
-	String temp = "abccdeff";
+	String temp = "ddaalamera";
 	char[] str = temp.toCharArray();
 	removeDuplicates(str);
 	System.out.println(str);
